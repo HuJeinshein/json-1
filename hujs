@@ -1,0 +1,20 @@
+{
+"Key": "204BA709-CC34-4245-AB77-70C2E4B91464",
+"MessagesProviders": " GPM-QC自動化線",
+"AccountabilityUnit": “MPMS AutoCmm Service Bridge",
+"Data": [
+{
+“VirtualLineID”: “CMMA01”,
+“MachineNo”: “CMM06”, 
+“JobNo”: “1710T07BC ”, 
+“PartNo”: “C01*01”, 
+“ChipID”: “08A5BA56”, 
+“ProcessCode”: “SQC”, 
+“EcnNo”: “1710T07-02”,
+“MpmsSubid”: “00000024”, 
+“MpmsMdid”: “00006101”, 
+“Command”: “Start”, 
+“SystemTime”: “2018-03-02 18:00” 
+}
+]
+}
